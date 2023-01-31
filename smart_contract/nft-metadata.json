@@ -1,0 +1,9 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Value",
+      "value" : "Gold"
+    }],
+    "description" : "The world's most adorable and sensitive currency.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmaA7sx64HGd5fvoY1AnBNK649RT74Lseh9Bm8UnwLJ4rV",
+    "name" : "USDC"
+}
