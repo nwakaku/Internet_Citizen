@@ -9,7 +9,7 @@ const NftForm = () => {
   const { data: signer, isError, isLoading } = useSigner();
 
   let contract = useContract({
-    address: "0xec2E0091996bfEd449356F18B47Aa017f12E6c8e",
+    address: "0x7bCBBeDCb251EA36E64DbFD4f21C085b2Bb6C556",
     abi: abi.abi,
     signerOrProvider: signer,
   });
@@ -73,10 +73,10 @@ const NftForm = () => {
       let transaction = await contract.mintNFT(recipient, metadataURL);
       await transaction.wait();
 
-      alert("Successfully listed your NFT");
+      console.log("Successfully listed your NFT");
       setFormParams({ name: "", description: "", recipient: "" });
     } catch (e) {
-      alert("Upload error" + e);
+      console.log("Upload error" + e);
     }
   }
 

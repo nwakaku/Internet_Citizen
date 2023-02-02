@@ -6,9 +6,9 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
 // import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract MyToken is ERC721, ERC721URIStorage, ERC721Burnable {
+contract MyNFT is ERC721, ERC721URIStorage, ERC721Burnable {
         using Counters for Counters.Counter;
-    Counters.Counter private _tokenIds;
+        Counters.Counter private _tokenIds;
 
     //The structure to store info about a listed token
     struct ListedToken {
