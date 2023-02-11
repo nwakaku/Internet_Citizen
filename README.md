@@ -42,3 +42,6 @@ These challenges have led to a growing demand for alternative, more secure, effi
 **Client:** React, TailwindCSS
 
 **Backend:** Solidity, Hardhat, Openzapplein, etc
+
+### MISSION STATEMENT
+`"Our mission is to empower individuals by providing them with secure and decentralized control over their digital identity. Through the use of cutting-edge blockchain technology and cryptographic algorithms, we aim to revolutionize the traditional methods of identification and verification, offering a more efficient, secure and privacy-focused solution. We are committed to fostering a world where individuals can confidently and easily verify their identity in a manner that is accessible and trusted, without sacrificing their privacy or security."`

@@ -1,8 +1,7 @@
 import axios from "axios";
 
 const key = "205954be8a00ed3e31d0";
-const secret =
-  "b91dceb62da76a11dffd43c20d7b2880561b3abd327ed32e0eb85193be743f8a";
+const secret = "b91dceb62da76a11dffd43c20d7b2880561b3abd327ed32e0eb85193be743f8a";
 
 const FormData = require("form-data");
 
