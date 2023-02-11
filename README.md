@@ -45,3 +45,6 @@ These challenges have led to a growing demand for alternative, more secure, effi
 
 ### MISSION STATEMENT
 `"Our mission is to empower individuals by providing them with secure, durable and decentralized control over their digital identity. Through the use of cutting-edge blockchain technology and cryptographic algorithms, we aim to revolutionize the traditional methods of identification and verification, offering a more efficient, secure and privacy-focused solution. We are committed to fostering a world where individuals can confidently and easily verify their identity and documents in a manner that is accessible and trusted, without sacrificing their privacy or security."`
+
+### VISION STATEMENT
+`"Our vision is a future where individuals have full autonomy over their digital identity and personal information. We envision a world where individuals can easily and securely verify their identity, whether it be for online transactions, access control, or other uses, without having to rely on centralized systems or give up their privacy. We strive to lead the way in innovation and security, providing a trusted and accessible solution for individuals everywhere. Our ultimate goal is to create a more secure and equitable digital landscape, where every individual has the power to control their identity and personal data."`
